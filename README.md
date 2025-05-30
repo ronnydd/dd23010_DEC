@@ -6,7 +6,7 @@ Este repositorio contiene tres ejercicios prácticos en lenguaje ensamblador (NA
 
 ## Descripción de los ejercicios
 
-### 1. ➖ Resta de tres enteros
+### 1.  Resta de tres enteros
 
 **Archivo:** `resta.asm`  
 **Descripción:**  
